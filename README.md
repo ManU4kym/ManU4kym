@@ -12,6 +12,6 @@
 
 👇 Let's build something amazing together!
 
-- 📫 How to reach me emmannjoroge36@gmail.com
+- 📫 How to reach me kimaniimmanuel76@gmail.com
 
 
