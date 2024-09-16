@@ -13,6 +13,6 @@
 
 👇 Let's build something amazing together!
 
-- 📫 How to reach me kimaniimmanuel76@gmail.com
+- 📫 How to reach me porcupine.secure@gmail.com
 
 
