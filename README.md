@@ -1,17 +1,16 @@
 
 - 👋 Hi, I’m @ManU4kym👋 
 
-🚀 Flutter Developer | Mobile App Enthusiast | Open Source Contributor | php laravel
+Flutter Developer | Mobile App Enthusiast | Open Source Contributor | PHP Laravel | Cybersecurity 🛡️ | 3D Models 🎮 | Unreal Engine 🕹️ | Networking Enthusiast 🌐
 
-🌟 Exploring the world of mobile app development with Flutter and creating user-friendly solutions.
+Tech is my playground! 🚀
+I specialize in mobile app development with Flutter 📱, contribute to open-source projects 🌍, and enjoy crafting web apps using PHP Laravel. 
+I'm deeply passionate about cybersecurity 🛡️, exploring 3D modeling 🎮, and building immersive experiences with Unreal Engine 🕹️. 
+Networking technologies like switches and infrastructure 🌐 fascinate me, as I aim to understand how everything connects in this digital world.
 
-💡 Passionate about clean code, elegant UIs, and building great user experiences.
+Let’s innovate and break boundaries together! 🔧
 
-🌐 Check out my projects below and let's collaborate on exciting  ideas!
 
-🌱 Always learning, always coding, and ready to contribute to open-source.
-
-👇 Let's build something amazing together!
 
 - 📫 How to reach me porcupine.secure@gmail.com
 
