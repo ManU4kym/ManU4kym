@@ -1,25 +1,16 @@
 
 
----
+## **Immanuel Kimani** 🦀💻  
 
-# 👋 Hi, I’m **Immanuel**  
-### *Software Engineer | Tech Enthusiast*  
+Rust & Laravel developer | Cybersecurity enthusiast  
 
----
+🔹 Building **high-performance systems** with Rust & Go  
+🔹 Developing **web apps** with Laravel & Livewire  
+🔹 Exploring **security, automation, and networking**  
 
-## 🌟 About Me  
-I’m a software engineer passionate about building **community-driven solutions** and exploring cutting-edge technologies.  
+🚀 Currently working on a **cloud monitoring tool** and an **ISP billing system**  
+
+📫 **Contact:** [Email](porcupine.secure@gmail.com)  
 
 
-### Interests:  
-- 🛡️ **Cybersecurity**  
-- 🎮 **3D Modeling & Game Development**  
-- 🌐 **Networking Technologies**  
-
----
-
-## 📫 Let’s Connect  
-**Email:** [porcupine.secure@gmail.com](mailto:porcupine.secure@gmail.com)  
-
----  
 
