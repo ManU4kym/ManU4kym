@@ -4,7 +4,7 @@
 
 Rust & Laravel developer | Cybersecurity enthusiast  
 
-🔹 Building **high-performance systems** with Rust
+🔹 Building **high-performance systems** with Rust<br>
 🔹 Developing **web apps** with Laravel & Livewire  
 🔹 Exploring **security, automation, and networking**  
 
