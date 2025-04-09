@@ -10,7 +10,7 @@ Rust & Laravel developer | Cybersecurity enthusiast
 
 🚀 Currently working on a **cloud monitoring tool** and an **ISP billing system**  
 
-📫 **Contact:** [Email](porcupine.secure@gmail.com)  
+📫 **Contact:** (porcupine.secure@gmail.com)  
 
 
 
