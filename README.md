@@ -8,7 +8,7 @@ Rust & Laravel developer | Cybersecurity enthusiast
 🔹 Developing **web apps** with Laravel & Livewire  
 🔹 Exploring **security, automation, and networking**  
 
-🚀 Currently working on a **cloud monitoring tool** and an **ISP billing system**  
+🚀 Currently working on a **cloud monitoring tool**
 
 📫 **Contact:** (porcupine.secure@gmail.com)  
 
