@@ -14,7 +14,7 @@ I build stealthy, efficient, and insightful tools using low-level access and hig
 * **Cloud Metrics Monitor (WIP)** –
   A Rust + Prometheus-based monitoring tool with real-time dashboards, webhook alerts, and multi-tenant support. Built for internal app observability with optional Grafana or custom chart UI.
 
-* **Mimi Nuxt Auth Module** –
+* **[Mimi Nuxt Auth Module](https://www.npmjs.com/package/mimi-nuxt-auth-module)** –
   Lightweight, reusable Nuxt module for login/logout flow with a mock backend. Useful for scaffolding frontend apps quickly without backend dependency.
 
 ---
